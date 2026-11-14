@@ -1,0 +1,22 @@
+# Python cache & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets & large model weights (if saved locally)
+tensorflow_datasets/
+data/
+*.h5
+*.keras
+*.pb
+saved_model/
+
+# OS files
+.DS_Store
+Thumbs.db
