@@ -20,3 +20,6 @@ saved_model/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Local specification file
+SPEC.MD
